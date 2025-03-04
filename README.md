@@ -1,6 +1,10 @@
 # MiLiC-Eval
 MiLiC-Eval is an NLP evaluation suite for **Mi**nority **L**anguages **i**n **C**hina, covering Tibetan (bo), Uyghur (ug), Kazakh (kk, in the Kazakh Arabic script), and Mongolian (mn, in the traditional Mongolian script).
 
+[**📑 Arixv**](https://arxiv.org/abs/2503.01150) 
+
+[**📊 HuggingFace**](https://huggingface.co/datasets/pkupie/milic-eval)
+
 ## Statistics
 
 ### Tasks
@@ -76,12 +80,11 @@ You can read the details of the corpus in our paper [MC^2: Towards Transparent a
 ## Citation
 If you use MiLiC-Eval in your research, please cite our GitHub repository:
 ```bibtex
-@misc{milic_eval,
-  author = {Zhang, Chen and Tao, Mingxu and Feng, Yansong},
-  title = {{MiLiC-Eval}: {A}n {NLP} {E}valuation {S}uite for {M}inority {L}anguages in {C}hina},
-  year = {2024},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/luciusssss/MiLiC-Eval}},
+@article{zhang2025milic,
+      title={MiLiC-Eval: Benchmarking Multilingual LLMs for China's Minority Languages}, 
+      author={Zhang, Chen and Tao, Mingxu and Liao, Zhiyuan and Feng, Yansong },
+      journal={arXiv preprint arXiv:2503.01150},
+      year={2025},
+      url={https://arxiv.org/abs/2503.01150}, 
 }
 ```
