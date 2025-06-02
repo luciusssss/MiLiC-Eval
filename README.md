@@ -1,7 +1,8 @@
-# MiLiC-Eval
+# MiLiC-Eval: Benchmarking Multilingual LLMs for China's Minority Languages (ACL'25 Findings)
+
 MiLiC-Eval is an NLP evaluation suite for **Mi**nority **L**anguages **i**n **C**hina, covering Tibetan (bo), Uyghur (ug), Kazakh (kk, in the Kazakh Arabic script), and Mongolian (mn, in the traditional Mongolian script).
 
-[**📑 Arixv**](https://arxiv.org/abs/2503.01150) 
+[**📑 Preprint**](https://arxiv.org/abs/2503.01150) 
 
 [**📊 HuggingFace**](https://huggingface.co/datasets/pkupie/milic-eval)
 
