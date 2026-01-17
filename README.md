@@ -2,7 +2,7 @@
 
 MiLiC-Eval is an NLP evaluation suite for **Mi**nority **L**anguages **i**n **C**hina, covering Tibetan (bo), Uyghur (ug), Kazakh (kk, in the Kazakh Arabic script), and Mongolian (mn, in the traditional Mongolian script).
 
-[**📑 Preprint**](https://arxiv.org/abs/2503.01150) 
+[**📑 Paper**](https://aclanthology.org/2025.findings-acl.578)
 
 [**📊 HuggingFace**](https://huggingface.co/datasets/pkupie/milic-eval)
 
@@ -79,13 +79,26 @@ You can read the details of the corpus in our paper [MC^2: Towards Transparent a
 
 
 ## Citation
-If you use MiLiC-Eval in your research, please cite our GitHub repository:
+If you use MiLiC-Eval in your research, please cite our paper:
 ```bibtex
-@article{zhang2025milic,
-      title={MiLiC-Eval: Benchmarking Multilingual LLMs for China's Minority Languages}, 
-      author={Zhang, Chen and Tao, Mingxu and Liao, Zhiyuan and Feng, Yansong },
-      journal={arXiv preprint arXiv:2503.01150},
-      year={2025},
-      url={https://arxiv.org/abs/2503.01150}, 
+@inproceedings{zhang-etal-2025-milic,
+    title = "{M}i{L}i{C}-Eval: Benchmarking Multilingual {LLM}s for {C}hina{'}s Minority Languages",
+    author = "Zhang, Chen  and
+      Tao, Mingxu  and
+      Liao, Zhiyuan  and
+      Feng, Yansong",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2025",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-acl.578/",
+    doi = "10.18653/v1/2025.findings-acl.578",
+    pages = "11086--11102",
+    ISBN = "979-8-89176-256-5",
 }
 ```
